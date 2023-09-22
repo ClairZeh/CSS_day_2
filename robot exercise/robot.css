@@ -15,8 +15,9 @@
 }
 
 #eyes{
-
-
+  width: 30%;
+  top: 35%;
+  left: 25%;
 }
 
 #mouth{
@@ -26,9 +27,14 @@
 
 }
 #ears{
-
+  width: 70%;
+  top: 10%;
+  left: 5%;
 }
 
 #hair{
+  width: 50%;
+  top: 0;
+  left:25%;
 
 }
