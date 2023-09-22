@@ -1,0 +1,34 @@
+.container {
+  width: 50%;
+  height: 50%;
+  border: 1px solid red;
+  position: relative;
+}
+.container img {
+  position: absolute;
+}
+
+#face{
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+#eyes{
+
+
+}
+
+#mouth{
+
+}
+#nose{
+
+}
+#ears{
+
+}
+
+#hair{
+
+}
